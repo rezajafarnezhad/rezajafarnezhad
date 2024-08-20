@@ -15,9 +15,6 @@ Interested in .NET & C#
   <a href="https://dotnet.microsoft.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
   </a>
-  <a href="https://dotnet.microsoft.com/">
-    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
-  </a>
   <a href="https://www.microsoft.com/en-us/sql-server/">
     <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" height="60px"  alt="sql server" style="vertical-align:top; margin:4px">
   </a>
